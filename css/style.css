@@ -54,6 +54,10 @@ a{
   border-radius: 20px;
 }
 
+.btn:hover{
+  background: #b4d1fd;
+}
+
 /* /header */
 
 
