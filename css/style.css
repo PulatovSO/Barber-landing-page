@@ -48,10 +48,11 @@ a{
 }
 
 .btn{
-  color: #ffffff;
   padding: 15px 32px;
   background: #99BAED;
   border-radius: 20px;
+  font-weight: bold;
+  color: #FFFFFF;
 }
 
 .btn:hover{
